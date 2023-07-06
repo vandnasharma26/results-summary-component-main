@@ -32,8 +32,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/vandnasharma26/results-summary-component-main/](https://github.com/vandnasharma26/results-summary-component-main/)
+- Live Site URL: [https://vandnasharma26.github.io/results-summary-component-main/](https://vandnasharma26.github.io/results-summary-component-main/)
 
 ## My process
 
