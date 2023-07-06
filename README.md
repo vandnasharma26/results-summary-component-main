@@ -23,6 +23,11 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+Desktop:
+![challenge-card-desktop](https://github.com/vandnasharma26/results-summary-component-main/assets/86317804/5c9d3d4f-5115-4857-b170-8078171d5a1f)
+
+Mobile:
+![challenge-card-mobile](https://github.com/vandnasharma26/results-summary-component-main/assets/86317804/c230668b-8904-443c-995c-28a304a19be7)
 
 
 ### Links
